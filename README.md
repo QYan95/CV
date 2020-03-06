@@ -1,6 +1,5 @@
 # CV
-This is the CV of Yan Qiu.
-此项目为邱严的简历
+此项目为邱严的简历。
 
 content
 ==============
